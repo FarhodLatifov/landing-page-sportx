@@ -3,7 +3,7 @@
 **Live Demo:** https://landing-page-sportx.vercel.app/
 
 
-![SportX Preview](<img width="1897" height="861" alt="sportX" src="https://github.com/user-attachments/assets/677f9c2b-2e2c-46d6-991b-9df694b33064" />)
+![SportX Preview]<img width="1897" height="861" alt="sportX" src="https://github.com/user-attachments/assets/677f9c2b-2e2c-46d6-991b-9df694b33064" />
 
 Премиальный одностраничный лендинг для сервиса персональных тренировок и performance-коучинга.  
 Без сборщиков и фреймворков.
